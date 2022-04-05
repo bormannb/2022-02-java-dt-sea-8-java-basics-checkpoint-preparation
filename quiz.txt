@@ -14,7 +14,7 @@ Q: What sequence of commands allows me to share new changes in a local repositor
 A:The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
 
 Q: What is the value of the expression (true && false)?
-A:
+A: --?--
 
 Q: How can you write `i = i + 1` more concisely?
 A:i++
@@ -23,16 +23,16 @@ Q: What does the term "concatenation" mean?
 A:Joining two strings together.
 
 Q: Why is the check for "equals" with (object == object) not reliable? What should you use for check of equal objects?
-A:
+A: --?--
 
 Q: What Collection implementation is ordered, but not sorted?
-A:
+A: --?--
 
 Q: What Collection implementation has only unique elements?
 A: HashSet
 
 Q: How can we find out the number of elements of an array named "students"?
-A:
+A: --?--
 
 Q: How can we find out the number of elements of a list named "students"?
 A: Iterating through the list and accessing each item. // using the len(list) function.
@@ -41,10 +41,10 @@ Q: In Java, what happens if I divide by Zero (eg. 8 / 0)?
 A: undefined
 
 Q: How can you check if File quiz = new File("quiz.txt") exists?
-A:
+A: --?--
 
 Q: Depending on some attributes, an object should return isAllowed(). Should the method be static or not, why?
-A:
+A: --?--
 
 Q: What is the signature of the `main` method of a class?
 A: public static void main(String a[]) is the main entry point signature
@@ -56,10 +56,10 @@ Q: Which naming rule should you apply to the naming of a class?
 A: Names should be in CamelCase
 
 Q: Why should the usage of java.util.Date be avoided?
-A:
+A: --?--
 
 Q: What Java class do you use to store the Date "31.10.2021"?
 A: java.util package (Java provides the Date class available in java. util package, this class encapsulates the current date and time.)
 
 Q: What is the advantage of using Generics?
-A:
+A: --?--
