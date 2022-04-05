@@ -12,12 +12,33 @@ public class Support extends ITPerson {
     @Override
     public boolean hasReadAccess() {
         // Add logic to evaluate Read access for Support here.
-        return false;
+
+        //level0 cannot read or write; level 1 can read 
+        //ITPerson supportLevel1 = 1;
+        
+        if(level==0){
+            return false;
+        }else if (level==1){
+            return true;
+        }else{
+            return true;
+        }
+        
     }
 
     @Override
     public boolean hasWriteAccess() {
         // Add logic to evaluate Write access for Admin here.
-        return false;
+        // level 2 can read or write
+        // frage nach den leveln ab
+
+        if(level==0){
+            return false;
+        }else if (level==1){
+            return false;
+        }else{
+            return true;
+        }
+
     }
 }
