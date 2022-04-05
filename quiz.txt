@@ -1,14 +1,14 @@
 Q: What is the default branch of a git repository called?
-A:
+A:The default branch name in Git is master.
 
 Q: How do you change branches using git?
 A:
 
 Q: What is the command that allows you to create a local repository from a remote repository?
-A:
+A: To start to work with Git is either clone (GIT clone) a remote source code repository or create your own new local repository. (GIT init)
 
 Q: How do you check the status of the working directory of the local repository?
-A:
+A:git status
 
 Q: What sequence of commands allows me to share new changes in a local repository with an (already configured) remote repository?
 A:
@@ -17,10 +17,10 @@ Q: What is the value of the expression (true && false)?
 A:
 
 Q: How can you write `i = i + 1` more concisely?
-A:
+A:i++
 
 Q: What does the term "concatenation" mean?
-A:
+A:Joining two strings together.
 
 Q: Why is the check for "equals" with (object == object) not reliable? What should you use for check of equal objects?
 A:
