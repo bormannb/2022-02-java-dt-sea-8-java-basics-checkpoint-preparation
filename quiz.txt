@@ -11,7 +11,7 @@ Q: How do you check the status of the working directory of the local repository?
 A:git status
 
 Q: What sequence of commands allows me to share new changes in a local repository with an (already configured) remote repository?
-A:
+A:The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
 
 Q: What is the value of the expression (true && false)?
 A:
@@ -29,13 +29,13 @@ Q: What Collection implementation is ordered, but not sorted?
 A:
 
 Q: What Collection implementation has only unique elements?
-A:
+A: HashSet
 
 Q: How can we find out the number of elements of an array named "students"?
 A:
 
 Q: How can we find out the number of elements of a list named "students"?
-A:
+A: Iterating through the list and accessing each item. // using the len(list) function.
 
 Q: In Java, what happens if I divide by Zero (eg. 8 / 0)?
 A: undefined
