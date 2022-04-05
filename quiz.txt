@@ -2,7 +2,7 @@ Q: What is the default branch of a git repository called?
 A:The default branch name in Git is master.
 
 Q: How do you change branches using git?
-A:
+A: Use the “git switch” command and specify the name of the branch you want to switch to.
 
 Q: What is the command that allows you to create a local repository from a remote repository?
 A: To start to work with Git is either clone (GIT clone) a remote source code repository or create your own new local repository. (GIT init)
@@ -38,7 +38,7 @@ Q: How can we find out the number of elements of a list named "students"?
 A:
 
 Q: In Java, what happens if I divide by Zero (eg. 8 / 0)?
-A:
+A: undefined
 
 Q: How can you check if File quiz = new File("quiz.txt") exists?
 A:
@@ -47,19 +47,19 @@ Q: Depending on some attributes, an object should return isAllowed(). Should the
 A:
 
 Q: What is the signature of the `main` method of a class?
-A:
+A: public static void main(String a[]) is the main entry point signature
 
 Q: What is an instance of a class?
-A:
+A: An object obj that belongs to a class Circle, for example, is an instance of the class Circle.
 
 Q: Which naming rule should you apply to the naming of a class?
-A:
+A: Names should be in CamelCase
 
 Q: Why should the usage of java.util.Date be avoided?
 A:
 
 Q: What Java class do you use to store the Date "31.10.2021"?
-A:
+A: java.util package (Java provides the Date class available in java. util package, this class encapsulates the current date and time.)
 
 Q: What is the advantage of using Generics?
 A:
